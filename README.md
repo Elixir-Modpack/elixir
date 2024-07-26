@@ -1,3 +1,6 @@
-<p align="center" width="100%">
-    <img width="33%" src="https://imgur.com/a/qYBhX8H">
-</p>
+<div align="center">
+<img src="https://i.imgur.com/QqXniQz.png" alt="FO logo" width="12%" height="12%">
+    
+# Elixir
+
+A powerful well-researched lightweight optimization modpack that makes the game run smoother!
